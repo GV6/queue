@@ -4,7 +4,7 @@
 #include <string.h>
 #include <unistd.h>
 
-#include "queue.h"
+#include "../include/queue.h"
 
 QUEUE *Initialize_Queue(void)
 {
